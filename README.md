@@ -2,7 +2,7 @@
 
 ## Sobre o Projeto
 
-Este repositório contém o desenvolvimento de uma **atividade avaliativa** da disciplina **Estruturas de Dados Básicas I (EDB I)**, do curso de **Bacharelado em Tecnologia da Informação (BTI)** da **Universidade Federal do Rio Grande do Norte (UFRN)**, desenvolvida em **dupla**.
+Este repositório contém o desenvolvimento de uma **atividade avaliativa** da disciplina **Estruturas de Dados Básicas I (EDB I)**, do curso de **Bacharelado em Tecnologia da Informação (BTI)** da **Universidade Federal do Rio Grande do Norte (UFRN)**, realizada em **dupla**.
 
 O projeto consiste na implementação, em **linguagem C**, de um **sistema de gerenciamento de pedidos de um restaurante**, com foco na aplicação prática de estruturas de dados lineares.
 
