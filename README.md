@@ -1,6 +1,6 @@
-# 📘 Projeto EDB I – Gerenciamento de Pedidos de Restaurante
+# Projeto EDB I – Gerenciamento de Pedidos de Restaurante
 
-## 📌 Sobre o Projeto
+## Sobre o Projeto
 
 Este repositório contém o desenvolvimento de uma **atividade avaliativa** da disciplina **Estruturas de Dados Básicas I (EDB I)**, do curso de **Bacharelado em Tecnologia da Informação (BTI)** da **Universidade Federal do Rio Grande do Norte (UFRN)**.
 
@@ -8,7 +8,7 @@ O projeto consiste na implementação, em **linguagem C**, de um **sistema de ge
 
 ---
 
-## ⚙️ O que o Programa Faz
+## O que o Programa Faz
 
 O sistema simula o fluxo de pedidos de um restaurante, separando as responsabilidades entre o **salão** e a **cozinha**, utilizando diferentes estruturas de dados:
 
@@ -21,7 +21,7 @@ Essa abordagem permite visualizar, de forma clara, o uso e a diferença entre **
 
 ---
 
-## 🎯 Objetivos
+## Objetivos
 
 - Implementar um sistema de gerenciamento de pedidos de restaurante em C  
 - Armazenar pedidos utilizando uma **lista ligada**  
@@ -31,7 +31,7 @@ Essa abordagem permite visualizar, de forma clara, o uso e a diferença entre **
 
 ---
 
-## 🧠 Estruturas de Dados Utilizadas
+## Estruturas de Dados Utilizadas
 
 - Lista Ligada  
 - Fila  
